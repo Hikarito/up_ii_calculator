@@ -17,6 +17,5 @@ def multiply(num1, num2):
 
 # Function to divide two numbers
 def divide(num1, num2):
-    return NotImplemented
-
+    return num1/num2
 
