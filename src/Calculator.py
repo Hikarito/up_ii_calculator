@@ -18,7 +18,7 @@ def calculate():
 
     # This actually calculates result and prints it.
     print('''The result is {}'''.format(
-        func_manager.use_function(user_choice, *nums)
+        func_manager.use_function(user_choice, *nums) 
     ))
 
     # Asks users if they want to do more calculations.
